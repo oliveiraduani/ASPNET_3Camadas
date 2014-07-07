@@ -1,0 +1,8 @@
+c:\_aspn\ASPNET_3Camadas\DTO\bin\Debug\DTO.dll
+c:\_aspn\ASPNET_3Camadas\DTO\bin\Debug\DTO.pdb
+c:\_aspn\ASPNET_3Camadas\DTO\bin\Debug\DTO.xml
+c:\_aspn\ASPNET_3Camadas\DTO\obj\Debug\DTO.Resources.resources
+c:\_aspn\ASPNET_3Camadas\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+c:\_aspn\ASPNET_3Camadas\DTO\obj\Debug\DTO.dll
+c:\_aspn\ASPNET_3Camadas\DTO\obj\Debug\DTO.xml
+c:\_aspn\ASPNET_3Camadas\DTO\obj\Debug\DTO.pdb

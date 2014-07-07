@@ -1,0 +1,15 @@
+c:\_aspn\ASPNET_3Camadas\BLL\bin\Debug\BLL.dll
+c:\_aspn\ASPNET_3Camadas\BLL\bin\Debug\BLL.pdb
+c:\_aspn\ASPNET_3Camadas\BLL\bin\Debug\BLL.xml
+c:\_aspn\ASPNET_3Camadas\BLL\obj\Debug\BLL.Resources.resources
+c:\_aspn\ASPNET_3Camadas\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+c:\_aspn\ASPNET_3Camadas\BLL\obj\Debug\BLL.dll
+c:\_aspn\ASPNET_3Camadas\BLL\obj\Debug\BLL.xml
+c:\_aspn\ASPNET_3Camadas\BLL\obj\Debug\BLL.pdb
+c:\_aspn\ASPNET_3Camadas\BLL\bin\Debug\DAL.dll
+c:\_aspn\ASPNET_3Camadas\BLL\bin\Debug\DTO.dll
+c:\_aspn\ASPNET_3Camadas\BLL\bin\Debug\DAL.pdb
+c:\_aspn\ASPNET_3Camadas\BLL\bin\Debug\DAL.xml
+c:\_aspn\ASPNET_3Camadas\BLL\bin\Debug\DTO.pdb
+c:\_aspn\ASPNET_3Camadas\BLL\bin\Debug\DTO.xml
+c:\_aspn\ASPNET_3Camadas\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache

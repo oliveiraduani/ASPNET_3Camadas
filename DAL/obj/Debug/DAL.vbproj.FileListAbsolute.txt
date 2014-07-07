@@ -1,0 +1,12 @@
+c:\_aspn\ASPNET_3Camadas\DAL\obj\Debug\DAL.Resources.resources
+c:\_aspn\ASPNET_3Camadas\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+c:\_aspn\ASPNET_3Camadas\DAL\bin\Debug\DAL.dll
+c:\_aspn\ASPNET_3Camadas\DAL\bin\Debug\DAL.pdb
+c:\_aspn\ASPNET_3Camadas\DAL\bin\Debug\DAL.xml
+c:\_aspn\ASPNET_3Camadas\DAL\obj\Debug\DAL.dll
+c:\_aspn\ASPNET_3Camadas\DAL\obj\Debug\DAL.xml
+c:\_aspn\ASPNET_3Camadas\DAL\obj\Debug\DAL.pdb
+c:\_aspn\ASPNET_3Camadas\DAL\bin\Debug\DTO.dll
+c:\_aspn\ASPNET_3Camadas\DAL\bin\Debug\DTO.pdb
+c:\_aspn\ASPNET_3Camadas\DAL\bin\Debug\DTO.xml
+c:\_aspn\ASPNET_3Camadas\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
